@@ -1,0 +1,52 @@
+[
+    {
+        "case_id": "HLT-1005",
+        "user_email": "guest",
+        "date": "2026-10-16 09:25",
+        "condition": "Chronic Kidney Disease",
+        "stage": "Stage 2: Established Condition (Moderate)",
+        "confidence": 93.8,
+        "specialist": "Nephrologist",
+        "vitals_summary": "BP: 120/80, Sugar: 95, BMI: 24.9"
+    },
+    {
+        "case_id": "HLT-1004",
+        "user_email": "guest",
+        "date": "2026-10-16 09:25",
+        "condition": "Chronic Kidney Disease",
+        "stage": "Stage 2: Established Condition (Moderate)",
+        "confidence": 93.8,
+        "specialist": "Nephrologist",
+        "vitals_summary": "BP: 120/80, Sugar: 95, BMI: 24.9"
+    },
+    {
+        "case_id": "HLT-1003",
+        "user_email": "guest",
+        "date": "2026-10-16 09:25",
+        "condition": "Chronic Kidney Disease",
+        "stage": "Stage 2: Established Condition (Moderate)",
+        "confidence": 93.8,
+        "specialist": "Nephrologist",
+        "vitals_summary": "BP: 120/80, Sugar: 95, BMI: 24.9"
+    },
+    {
+        "case_id": "HLT-1002",
+        "user_email": "guest",
+        "date": "2026-10-16 09:23",
+        "condition": "Chronic Kidney Disease",
+        "stage": "Stage 2: Established Condition (Moderate)",
+        "confidence": 93.8,
+        "specialist": "Nephrologist",
+        "vitals_summary": "BP: 120/80, Sugar: 95, BMI: 24.9"
+    },
+    {
+        "case_id": "HLT-1001",
+        "user_email": "rahul@patient.com",
+        "date": "2026-10-15 23:48",
+        "condition": "Heart Disease",
+        "stage": "Stage 1: Early Pre-Condition (Mild)",
+        "confidence": 95.2,
+        "specialist": "Cardiologist",
+        "vitals_summary": "BP: 135/88, Glucose: 105, BMI: 26.2"
+    }
+]

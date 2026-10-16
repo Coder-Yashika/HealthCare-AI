@@ -1,0 +1,21 @@
+{
+    "dr.alex@healthai.org": {
+        "email": "dr.alex@healthai.org",
+        "password_hash": "17c974b6c7a979ad08db6b411c872d4a0ed80f1075b01755463fcfd544f5dfb4",
+        "name": "Dr. Alex Sharma",
+        "role": "Doctor",
+        "specialty": "Cardiology & Internal Medicine",
+        "license_id": "MED-IND-8849",
+        "created_at": "2026-10-15 23:48"
+    },
+    "rahul@patient.com": {
+        "email": "rahul@patient.com",
+        "password_hash": "e205c088ec2d244964c713554b11f9fa48e83ed3a6b0b257161d5f0ce30cab29",
+        "name": "Rahul Verma",
+        "role": "Patient",
+        "age": 38,
+        "blood_group": "O+",
+        "emergency_contact": "+91 98765 43210",
+        "created_at": "2026-10-15 23:48"
+    }
+}
